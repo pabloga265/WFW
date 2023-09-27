@@ -1,0 +1,23 @@
+{
+  "name": "wfw",
+  "version": "1.0.0",
+  "description": "war for wfw",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pabloga265/WFW.git"
+  },
+  "keywords": [
+    "web",
+    "game"
+  ],
+  "author": "mamanEstMorte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabloga265/WFW/issues"
+  },
+  "homepage": "https://github.com/pabloga265/WFW#readme"
+}
