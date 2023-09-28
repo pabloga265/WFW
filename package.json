@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/pabloga265/WFW/issues"
   },
-  "homepage": "https://github.com/pabloga265/WFW#readme"
+  "homepage": "https://github.com/pabloga265/WFW#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
 }
